@@ -24,33 +24,11 @@ Atualmente focada em **Python**, **Desenvolvimento Web** e na construção de pr
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KaylaneAlemao&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaylaneAlemao&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
-
-</div>
-
----
-
 # 🔥 Sequência de Contribuições
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=KaylaneAlemao&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KaylaneAlemao&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 
